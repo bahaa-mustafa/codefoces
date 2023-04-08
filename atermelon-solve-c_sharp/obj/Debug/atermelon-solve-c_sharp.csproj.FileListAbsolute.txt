@@ -1,0 +1,8 @@
+E:\apps\visual studio\codeforce problem\atermelon-solve-c_sharp\obj\Debug\atermelon-solve-c_sharp.csproj.AssemblyReference.cache
+E:\apps\visual studio\codeforce problem\atermelon-solve-c_sharp\obj\Debug\atermelon-solve-c_sharp.csproj.SuggestedBindingRedirects.cache
+E:\apps\visual studio\codeforce problem\atermelon-solve-c_sharp\obj\Debug\atermelon-solve-c_sharp.csproj.CoreCompileInputs.cache
+E:\apps\visual studio\codeforce problem\atermelon-solve-c_sharp\bin\Debug\atermelon-solve-c_sharp.exe.config
+E:\apps\visual studio\codeforce problem\atermelon-solve-c_sharp\bin\Debug\atermelon-solve-c_sharp.exe
+E:\apps\visual studio\codeforce problem\atermelon-solve-c_sharp\bin\Debug\atermelon-solve-c_sharp.pdb
+E:\apps\visual studio\codeforce problem\atermelon-solve-c_sharp\obj\Debug\atermelon-solve-c_sharp.exe
+E:\apps\visual studio\codeforce problem\atermelon-solve-c_sharp\obj\Debug\atermelon-solve-c_sharp.pdb
