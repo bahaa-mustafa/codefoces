@@ -1,0 +1,8 @@
+E:\apps\visual studio\codeforce problem\domino_biling\bin\Debug\domino_biling.exe.config
+E:\apps\visual studio\codeforce problem\domino_biling\bin\Debug\domino_biling.exe
+E:\apps\visual studio\codeforce problem\domino_biling\bin\Debug\domino_biling.pdb
+E:\apps\visual studio\codeforce problem\domino_biling\obj\Debug\domino_biling.csproj.AssemblyReference.cache
+E:\apps\visual studio\codeforce problem\domino_biling\obj\Debug\domino_biling.csproj.SuggestedBindingRedirects.cache
+E:\apps\visual studio\codeforce problem\domino_biling\obj\Debug\domino_biling.csproj.CoreCompileInputs.cache
+E:\apps\visual studio\codeforce problem\domino_biling\obj\Debug\domino_biling.exe
+E:\apps\visual studio\codeforce problem\domino_biling\obj\Debug\domino_biling.pdb
