@@ -1,0 +1,8 @@
+E:\apps\visual studio\codeforce problem\next_round\bin\Debug\next_round.exe.config
+E:\apps\visual studio\codeforce problem\next_round\bin\Debug\next_round.exe
+E:\apps\visual studio\codeforce problem\next_round\bin\Debug\next_round.pdb
+E:\apps\visual studio\codeforce problem\next_round\obj\Debug\next_round.csproj.AssemblyReference.cache
+E:\apps\visual studio\codeforce problem\next_round\obj\Debug\next_round.csproj.SuggestedBindingRedirects.cache
+E:\apps\visual studio\codeforce problem\next_round\obj\Debug\next_round.csproj.CoreCompileInputs.cache
+E:\apps\visual studio\codeforce problem\next_round\obj\Debug\next_round.exe
+E:\apps\visual studio\codeforce problem\next_round\obj\Debug\next_round.pdb
