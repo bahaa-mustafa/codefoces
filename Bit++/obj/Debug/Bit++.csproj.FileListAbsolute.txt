@@ -1,0 +1,8 @@
+E:\apps\visual studio\codeforce problem\Bit++\bin\Debug\Bit++.exe.config
+E:\apps\visual studio\codeforce problem\Bit++\bin\Debug\Bit++.exe
+E:\apps\visual studio\codeforce problem\Bit++\bin\Debug\Bit++.pdb
+E:\apps\visual studio\codeforce problem\Bit++\obj\Debug\Bit++.csproj.AssemblyReference.cache
+E:\apps\visual studio\codeforce problem\Bit++\obj\Debug\Bit++.csproj.SuggestedBindingRedirects.cache
+E:\apps\visual studio\codeforce problem\Bit++\obj\Debug\Bit++.csproj.CoreCompileInputs.cache
+E:\apps\visual studio\codeforce problem\Bit++\obj\Debug\Bit++.exe
+E:\apps\visual studio\codeforce problem\Bit++\obj\Debug\Bit++.pdb
